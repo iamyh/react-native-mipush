@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/yang/Documents/iyouya/src/app/DoctorMP/node_modules/react-native-mipush/android/src/main/assets"/></dataSet><dataSet config="release"><source path="/Users/yang/Documents/iyouya/src/app/DoctorMP/node_modules/react-native-mipush/android/src/release/assets"/></dataSet></merger>
